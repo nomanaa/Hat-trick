@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="bayern_munich">Bayern Munich</string>
+    <string name="naviOpen">Open</string>
+    <string name="naviClose">Close</string>
+</resources>
