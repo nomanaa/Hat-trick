@@ -3,6 +3,8 @@
  
  This app was designed voluntarily for a small business of my friends. The business is based on buying soccer kit from designated wholesale market and selling them to local people through using third party courier. 
  
+ Link to the business fb page: https://www.facebook.com/hattrickbd
+ 
  The app can only store user information,show some available kits with pictures and have user profile dashboard. The project is not completed and further development will be made in future. 
 
 Info: 
